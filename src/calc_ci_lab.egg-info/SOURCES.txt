@@ -1,7 +1,7 @@
 README.md
 pyproject.toml
+src/calc/__init__.py
 src/calc/__main__.py
-src/calc/_init_.py
 src/calc/ops.py
 src/calc_ci_lab.egg-info/PKG-INFO
 src/calc_ci_lab.egg-info/SOURCES.txt
